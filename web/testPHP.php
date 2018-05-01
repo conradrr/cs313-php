@@ -8,7 +8,7 @@
 		if ($i % 2 === 0)
 			echo "<div id=div$i>DIV$i</div>"
 		else
-			echo "<font color="red"><div id=div$i>DIV$i</div></font>"
+			echo "<font color=\"red\"><div id=div$i>DIV$i</div></font>"
 	
 	
 	?>
