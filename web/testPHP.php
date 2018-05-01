@@ -5,8 +5,10 @@
 	<p>Test PHP</p>
 	<?php
 	for ($i = 1; $i <= 10; $i++)
-		echo "<div id=div$i>DIV$i</div>"
-	
+		if ($i % 2 === 0)
+			echo "<div id=div$i>DIV$i</div>"
+		else
+			echo "<div style=\"color=red\" id=div$i>DIV$i</div>"
 	
 	
 	?>
