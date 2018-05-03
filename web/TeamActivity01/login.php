@@ -6,10 +6,11 @@
 	<body>
 		<h1>Login</h1>
 		<?php
+			include 'nav.css';
 			require("nav.php");
 		?>
 		
-		<input id="loginInfo">
-		<button type="button">Login</button>
+		<button type="button">Administrator</button>
+		<button type="button">Tester</button>		
 	</body>
 </html>

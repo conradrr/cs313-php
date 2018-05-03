@@ -6,6 +6,7 @@
 	<body>
 		<h1>About Exotic Things</h1>
 		<?php
+			include 'nav.css';
 			require("nav.php");
 		?>
 	</body>
