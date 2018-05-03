@@ -3,6 +3,11 @@ ul {
 	text-decoration: none;
 }
 
+.active {
+	color: red;
+	background-color: green;
+}
+
 a:active {
 	color: red;
 }
