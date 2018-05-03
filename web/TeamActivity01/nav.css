@@ -1,13 +1,10 @@
 a {
    list-style-type: none;
 	text-decoration: none;
+	color: red;
 }
 
 .active {
 	color: red;
 	background-color: green;
-}
-
-a:active {
-	color: red;
 }
