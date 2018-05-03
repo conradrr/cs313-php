@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<?php $page = 'home';?>
 		<link rel="stylesheet" type="text/css" href="nav.css">
 		<title>Exotic Things</title>
 	</head>
