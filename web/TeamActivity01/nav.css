@@ -1,6 +1,9 @@
 a {
    list-style-type: none;
 	text-decoration: none;
+}
+
+a:active {
 	color: red;
 }
 
