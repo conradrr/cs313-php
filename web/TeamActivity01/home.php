@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<?php $page = 'home';include 'nav.php';?>
+		<?php $pages = 'home';include 'nav.php';?>
 		<link rel="stylesheet" type="text/css" href="nav.css">
 		<title>Exotic Things</title>
 	</head>
