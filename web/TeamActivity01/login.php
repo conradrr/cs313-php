@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<?php $page = 'login';?>
 		<link rel="stylesheet" type="text/css" href="nav.css">
 		<title>Login</title>
 	</head>
