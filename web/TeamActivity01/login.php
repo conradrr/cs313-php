@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<?php $page = 'login';include 'nav.php';?>
+		<?php $pages = 'login';include 'nav.php';?>
 		<link rel="stylesheet" type="text/css" href="nav.css">
 		<title>Login</title>
 	</head>
