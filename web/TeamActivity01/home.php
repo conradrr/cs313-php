@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link rel="stylesheet" type="text/css" href="nav.css">
 		<title>Exotic Things</title>
 	</head>
 	<body>
 		<h1>Exotic Things</h1>
 		<?php
-			include 'nav.css';
 			require("nav.php");
 		?>
 		
