@@ -1,4 +1,4 @@
-#container-fluid {
+.navbar {
 	background-color: black;
 }
 
@@ -8,20 +8,24 @@
 
 a:hover {
 	color: gray;
+	padding: 10px;
 	text-decoration: none;
 }
 
 a:active {
 	color: gray;
+	padding: 10px;
 	text-decoration: none;
 }
 
 a:visited {
 	color: white;
+	padding: 10px;
 	text-decoration: none;
 }
 
 a:link {
 	color: white;
+	padding: 10px;
 	text-decoration: none;
 }
