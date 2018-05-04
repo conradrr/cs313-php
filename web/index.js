@@ -1,11 +1,11 @@
 function displayInfo()
 {
-	document.getElementByID("aboutMeBox").style.visibility = hidden;
-   document.getElementByID("aboutMeDisplay").style.visibility = visible;
+	document.getElementById("aboutMeBox").style.visibility = hidden;
+   document.getElementById("aboutMeDisplay").style.visibility = visible;
 }
 
 function retractInfo()
 {
-   document.getElementByID("aboutMeBox").style.visibility = visible;
-   document.getElementByID("aboutMeDisplay").style.visibility = hidden;
+   document.getElementById("aboutMeBox").style.visibility = visible;
+   document.getElementById("aboutMeDisplay").style.visibility = hidden;
 }
