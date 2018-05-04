@@ -1,5 +1,9 @@
-#navbar {
+#container-fluid {
 	background-color: black;
+}
+
+.active {
+	background-color: gray;
 }
 
 a:hover {
