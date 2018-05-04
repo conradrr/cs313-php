@@ -5,17 +5,15 @@ li {
 
 a:link {
    text-decoration: none;
-	color: black;
 }
 
 a:visited {
    text-decoration: none;
-	color: black;
 }
 
 a:hover {
    text-decoration: none;
-	color: black;
+	color: gray;
 }
 
 a:active {
@@ -26,8 +24,4 @@ a:active {
 .active {
 	color: white;
 	background-color: black;
-}
-
-.navbar-collapse collapse {
-	background-color: gray;
 }
