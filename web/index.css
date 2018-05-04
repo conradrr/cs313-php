@@ -11,6 +11,8 @@
 #aboutMeBox {
 	background-color: black;
 	display: inline-block;
+	display: flex;
+	flex-direction: row;
 	color: white;
 	padding: 10px;
 }
@@ -18,6 +20,8 @@
 #aboutMeDisplay {
 	background-color: black;
 	display: inline-block;
+	display: flex;
+	flex-direction: row;
 	color: white;
 	visibility: "collapse";
 	padding: 10px;
