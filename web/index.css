@@ -17,7 +17,7 @@
 #aboutMeDisplay {
 	background-color: black;
 	color: white;
-	visibility: "hidden";
+	visibility: "collapse";
 	padding: 10px;
 }
 
