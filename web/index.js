@@ -8,12 +8,12 @@ function retractInfo()
    document.getElementById("aboutMeDisplay").style.visibility = "collapse";
 }
 
-function displayPhoto()
+function displayPhotos()
 {
    document.getElementById("photosDisplay").style.visibility = "visible";
 }
 
-function retractPhoto()
+function retractPhotos()
 {
    document.getElementById("photosDisplay").style.visibility = "collapse";
 }
