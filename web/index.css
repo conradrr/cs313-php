@@ -10,13 +10,14 @@
 
 #aboutMeBox {
 	background-color: black;
-	width: auto;
+	display: inline-block;
 	color: white;
 	padding: 10px;
 }
 
 #aboutMeDisplay {
 	background-color: black;
+	display: inline-block;
 	color: white;
 	visibility: "collapse";
 	padding: 10px;
