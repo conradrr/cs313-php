@@ -11,14 +11,13 @@
 #aboutMeBox {
 	background-color: black;
 	color: white;
-	visibility: visible;
 	padding: 10px;
 }
 
 #aboutMeDisplay {
 	background-color: black;
 	color: white;
-	visibility: collapse;
+	visibility: "hidden";
 	padding: 10px;
 }
 
