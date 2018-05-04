@@ -1,6 +1,6 @@
 .navbar {
 	background-color: black;
-	height: 100px;
+	height: 30px;
 }
 
 .active {
@@ -14,19 +14,16 @@ a:hover {
 }
 
 a:active {
-	color: gray;
 	padding: 10px;
 	text-decoration: none;
 }
 
 a:visited {
-	color: white;
 	padding: 10px;
 	text-decoration: none;
 }
 
 a:link {
-	color: white;
 	padding: 10px;
 	text-decoration: none;
 }
