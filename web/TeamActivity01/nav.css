@@ -25,5 +25,9 @@ a:active {
 
 .active {
 	color: white;
+	background-color: gray;
+}
+
+.container-fluid {
 	background-color: black;
 }
