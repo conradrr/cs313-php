@@ -25,6 +25,24 @@
 	padding: 10px;
 }
 
+#photosBox {
+	background-color: black;
+	display: flex;
+	flex-direction: row;
+	color: white;
+	padding: 10px;
+}
+
+#photosDisplay {
+	background-color: slategray;
+	display: flex;
+	flex-direction: row;
+	color: white;
+	visibility: "collapse";
+	padding: 10px;
+}
+
+
 a:hover {
 	color: gray;
 	padding: 10px;
