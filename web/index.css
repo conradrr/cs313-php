@@ -10,7 +10,6 @@
 
 #aboutMeBox {
 	background-color: black;
-	display: inline-block;
 	display: flex;
 	flex-direction: row;
 	color: white;
@@ -18,8 +17,7 @@
 }
 
 #aboutMeDisplay {
-	background-color: black;
-	display: inline-block;
+	background-color: slategray;
 	display: flex;
 	flex-direction: row;
 	color: white;
