@@ -19,6 +19,7 @@ a:active {
 }
 
 a:visited {
+	color: white;
 	padding: 10px;
 	text-decoration: none;
 }
