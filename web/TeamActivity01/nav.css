@@ -3,11 +3,31 @@ li {
 	text-decoration: none;
 }
 
+a:link {
+   text-decoration: none;
+	color: black;
+}
+
+a:visited {
+   text-decoration: none;
+	color: black;
+}
+
+a:hover {
+   text-decoration: none;
+	color: black;
+}
+
 a:active {
-	color: red;
+   text-decoration: none;
+	color: white;
 }
 
 .active {
-	color: red;
-	background-color: green;
+	color: white;
+	background-color: black;
+}
+
+.navbar-collapse collapse {
+	background-color: gray;
 }
