@@ -5,6 +5,6 @@
 	</head>
 	<body>
 		<h1>Conrad's Home Page</h1>
-		<div id="navbar"><p> Home Page </p><p> Assignments </p></div>
+		<div id="navbar"><a> Home Page</a><a> Assignments</a></div>
 	</body>
 </html>
