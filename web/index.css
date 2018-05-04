@@ -10,6 +10,7 @@
 
 #aboutMeBox {
 	background-color: black;
+	width: auto;
 	color: white;
 	padding: 10px;
 }
