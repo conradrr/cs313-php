@@ -16,6 +16,11 @@
 	padding: 10px;
 }
 
+img {
+	width:100px;
+	height: 150px;
+}
+
 #aboutMeDisplay {
 	background-color: slategray;
 	display: flex;
