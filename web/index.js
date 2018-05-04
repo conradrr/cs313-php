@@ -7,3 +7,13 @@ function retractInfo()
 {
    document.getElementById("aboutMeDisplay").style.visibility = "collapse";
 }
+
+function displayPhoto()
+{
+   document.getElementById("photosDisplay").style.visibility = "visible";
+}
+
+function retractPhoto()
+{
+   document.getElementById("photosDisplay").style.visibility = "collapse";
+}
