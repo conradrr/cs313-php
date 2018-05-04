@@ -1,5 +1,6 @@
 .navbar {
 	background-color: black;
+	height: 20px;
 }
 
 .active {
@@ -19,7 +20,7 @@ a:active {
 }
 
 a:visited {
-	color: white;
+	color: gray;
 	padding: 10px;
 	text-decoration: none;
 }
