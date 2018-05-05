@@ -75,6 +75,16 @@ function update() {
     ctx.fill();
 	
 	console.log(counter);
+	
+	if (counter == 2650)
+	{
+		ctx.clearRect(0, 0, canvas.width, canvas.width);
+	
+		// Circle x and y
+		var cX = 5;
+		var cY = 5;
+	}
+	
 	counter++;
 }
 
