@@ -27,11 +27,11 @@ var canvas = document.getElementById("canvas");
 // Define a 2d canvas
 var ctx = canvas.getContext("2d");
 
-var height = 15;
+var height = 50;
 
 // Size the canvas
-canvas.height = 15;
-canvas.width = window.innerWidth;
+canvas.height = height;
+canvas.width = window.innerWidth - 30;
 
 // Circle x and y
 var cX = 300;
