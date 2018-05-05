@@ -74,6 +74,7 @@ function update() {
     ctx.arc(cX, cY, 5, 0, Math.PI * 2);
     ctx.fill();
 	
+	console.log(counter);
 	counter++;
 }
 
