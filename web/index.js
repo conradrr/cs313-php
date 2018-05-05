@@ -28,7 +28,7 @@ var canvas = document.getElementById("canvas");
 var ctx = canvas.getContext("2d");
 
 var height = 50;
-int counter = 0;
+var counter = 0;
 
 // Size the canvas
 canvas.height = height;
