@@ -28,6 +28,7 @@ var canvas = document.getElementById("canvas");
 var ctx = canvas.getContext("2d");
 
 var height = 50;
+int counter = 0;
 
 // Size the canvas
 canvas.height = height;
@@ -72,6 +73,8 @@ function update() {
     ctx.fillStyle = "black";
     ctx.arc(cX, cY, 5, 0, Math.PI * 2);
     ctx.fill();
+	
+	counter++;
 }
 
 update();
