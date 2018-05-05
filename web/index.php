@@ -6,6 +6,7 @@
 		<title>Conrad's Home Page</title>
 	</head>
 	<body>
+		<canvas id="canvas"></canvas>
 		<script type="text/javascript" src="index.js"></script>
 		<h1>Conrad's Home Page</h1>
 		<div id="aboutMeBox" onmouseover="displayInfo()" onmouseout="retractInfo()">About Me...</div>
@@ -18,7 +19,5 @@
 			<img src="familyPicture2.jpg" alt="Amelia Rose">
 			<img src="familyPicture3.jpg" alt="Wedding Day">
 		</div>
-		<canvas id="canvas">
-		</canvas>
 	</body>
 </html>
