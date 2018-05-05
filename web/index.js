@@ -34,8 +34,8 @@ canvas.height = height;
 canvas.width = window.innerWidth - 30;
 
 // Circle x and y
-var cX = 300;
-var cY = 150;
+var cX = 0;
+var cY = 0;
 
 // Velocity of circle
 var velCX = 1;
