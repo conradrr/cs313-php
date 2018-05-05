@@ -74,8 +74,6 @@ function update() {
     ctx.arc(cX, cY, 5, 0, Math.PI * 2);
     ctx.fill();
 	
-	console.log(counter);
-	
 	if (counter == 2650)
 	{
 		ctx.clearRect(0, 0, canvas.width, canvas.width);
