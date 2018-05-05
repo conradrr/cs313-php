@@ -27,9 +27,11 @@ var canvas = document.getElementById("canvas");
 // Define a 2d canvas
 var ctx = canvas.getContext("2d");
 
+int height = 15;
+
 // Size the canvas
-canvas.height = 300;
-canvas.width = 600;
+canvas.height = 15;
+canvas.width = window.innerWidth;
 
 // Circle x and y
 var cX = 300;
@@ -54,7 +56,7 @@ function update() {
     }
   
     // Still bouncing off walls!
-    if (cY > 295 || cY < 5)
+    if (cY > (height - 5) || cY < 5)
     {
       velCY = -velCY;
     }
