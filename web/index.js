@@ -81,8 +81,8 @@ function update() {
 		ctx.clearRect(0, 0, canvas.width, canvas.width);
 	
 		// Circle x and y
-		var cX = 5;
-		var cY = 5;
+		cX = 5;
+		cY = 5;
 	}
 	
 	counter++;
