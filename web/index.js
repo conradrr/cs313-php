@@ -65,7 +65,7 @@ function update() {
 	 cY += velCY;
   
     // Clear the canvas every frame
-    ctx.clearRect(0, 0, 600, 600);
+    //ctx.clearRect(0, 0, 600, 600);
 
     // Let's create a black ball
     ctx.beginPath();
